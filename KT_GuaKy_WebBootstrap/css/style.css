@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@font-face {
+  font-family: 'Reey';
+  src: url(/font/Reey-Regular.otf/Tahoma/);
+}
+
+header .menu {
+  padding: px 0;
+}
+
+header .menu ul {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+header .menu ul li {
+  display: inline-block;
+  margin: 20px 28px;
+}
+
+header .banner {
+  background: url(../images/background.png) no-repeat;
+  background-position: 100%;
+}
+
+header .banner .image {
+  width: 500px;
+}
+
+header .banner h1 {
+  padding-top: 100px;
+  font-family: 'Reey';
+  color: black;
+  margin-top: 20px;
+  font-size: 85px;
+}
+
+header .banner p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .banner p a {
+  padding: 10px 30px;
+  color: black;
+  background-color: #c75656;
+  border: 1px solid #c75656;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+header .anh2 {
+  background: url(/images/nguoi2.png) no-repeat;
+  background-position: 100%;
+  padding: 40px;
+}
+
+header .anh2 h1 {
+  padding: 40px;
+  padding-top: 100px;
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh2 p {
+  padding: 40px;
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh2 p a {
+  padding: 10px 30px;
+  color: black;
+  background-color: #c75656;
+  border: 1px solid #c75656;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+header .anh3 {
+  padding: 50px;
+  text-align: center;
+}
+
+header .anh4 {
+  background: url(/images/background1.png) no-repeat;
+  background-position: 100%;
+}
+
+header .anh4 .image {
+  width: 500px;
+}
+
+header .anh4 h1 {
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh4 p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh4 p a {
+  padding: 10px 30px;
+  color: black;
+  background-color: #c75656;
+  border: 1px solid #c75656;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+header .anh5 {
+  background: url(/images/background2.png) no-repeat;
+  background-position: 100%;
+}
+
+header .anh5 h1 {
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh5 p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh5 p a {
+  padding: 10px 30px;
+  color: black;
+  background-color: #c75656;
+  border: 1px solid #c75656;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+header .anh6 {
+  background: url(/images/background3.png) no-repeat;
+  background-position: 100%;
+  text-align: center;
+}
+
+header .anh6 h1 {
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh6 p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh7 {
+  background: url(/images/background4.png) no-repeat;
+  background-position: 100%;
+}
+
+header .anh7 h1 {
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh7 p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh7 ul {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+header .anh7 ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+header .anh8 {
+  background: url(/images/background5.png) no-repeat;
+  background-position: 100%;
+  text-align: center;
+}
+
+header .anh8 h1 {
+  font-family: 'Reey';
+  color: black;
+  margin-top: 50px;
+  font-size: 85px;
+}
+
+header .anh8 p {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  margin-bottom: 20px;
+}
+
+header .anh8 p a {
+  padding: 10px 30px;
+  color: black;
+  background-color: #c75656;
+  border: 1px solid #c75656;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+header .anh8 input {
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+header .anh8 .size {
+  height: 100px;
+}
+
+header .anh9 {
+  background: url(/images/background6.png) no-repeat;
+  background-position: 100%;
+  color: white;
+  padding: 20px;
+}
+
+header .anh9 .ha {
+  list-style-type: none;
+}
+
+header .anh9 .na {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+header .anh9 .na li {
+  display: inline-block;
+  margin: 10px;
+}
+/*# sourceMappingURL=style.css.map */
